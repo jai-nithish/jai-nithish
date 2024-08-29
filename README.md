@@ -1,7 +1,7 @@
 #### Bio:
 👋 **Hi there! I'm Jai Nithish**
 
-I'm a passionate developer with familiar with a variety of programming languages and tools. I enjoy building applications that solve real-world problems, and I'm constantly exploring new technologies to expand my skill set.
+I'm a passionate developer familiar with a variety of programming languages and tools. I enjoy building applications that solve real-world problems, and I'm constantly exploring new technologies to expand my skill set.
 
 ### Portfolio : 
 
