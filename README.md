@@ -3,6 +3,10 @@
 
 I'm a passionate developer with familiar with a variety of programming languages and tools. I enjoy building applications that solve real-world problems, and I'm constantly exploring new technologies to expand my skill set.
 
+### Portfolio : 
+
+CHECK OUT MY PORTFOLIO: [Portfolio jai_nithish](https://jai-nithish.github.io/not_jai/)
+
 #### 🔧 **Technologies & Tools:**
 
 - **Programming Languages:**
